@@ -1,2 +1,4 @@
-# odin-recipes
-First Project within The Odin Project, focusing on plain HTML
+# Odin Recipes
+
+A website listing recipes, built using techniques
+listed in The Odin Project.
